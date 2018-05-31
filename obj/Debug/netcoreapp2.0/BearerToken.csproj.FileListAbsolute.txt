@@ -1,0 +1,12 @@
+c:\users\e063666\source\repos\BearerToken\BearerToken\bin\Debug\netcoreapp2.0\BearerToken.deps.json
+c:\users\e063666\source\repos\BearerToken\BearerToken\bin\Debug\netcoreapp2.0\BearerToken.runtimeconfig.json
+c:\users\e063666\source\repos\BearerToken\BearerToken\bin\Debug\netcoreapp2.0\BearerToken.runtimeconfig.dev.json
+c:\users\e063666\source\repos\BearerToken\BearerToken\bin\Debug\netcoreapp2.0\BearerToken.dll
+c:\users\e063666\source\repos\BearerToken\BearerToken\bin\Debug\netcoreapp2.0\BearerToken.pdb
+c:\users\e063666\source\repos\BearerToken\BearerToken\obj\Debug\netcoreapp2.0\BearerToken.csprojResolveAssemblyReference.cache
+c:\users\e063666\source\repos\BearerToken\BearerToken\obj\Debug\netcoreapp2.0\BearerToken.csproj.CoreCompileInputs.cache
+c:\users\e063666\source\repos\BearerToken\BearerToken\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\users\e063666\source\repos\BearerToken\BearerToken\obj\Debug\netcoreapp2.0\BearerToken.AssemblyInfoInputs.cache
+c:\users\e063666\source\repos\BearerToken\BearerToken\obj\Debug\netcoreapp2.0\BearerToken.AssemblyInfo.cs
+c:\users\e063666\source\repos\BearerToken\BearerToken\obj\Debug\netcoreapp2.0\BearerToken.dll
+c:\users\e063666\source\repos\BearerToken\BearerToken\obj\Debug\netcoreapp2.0\BearerToken.pdb

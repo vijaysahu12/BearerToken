@@ -1,2 +1,2 @@
 # BearerToken
-Bearer Token Authentication
+* Lean how to implement Bearer Token Authentication
